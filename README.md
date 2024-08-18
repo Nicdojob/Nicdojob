@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! Eu sou o Nicollas ](https://github.com/Nicdojob)
 
-<!--
-**Nicdojob/Nicdojob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 Sobre Mim
+Desenvolvedor com experiência em várias linguagens de programação e tecnologias. 
 
-Here are some ideas to get you started:
+## 💻 Linguagens e Tecnologias que Conheço
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens de Programação:**
+  - JavaScript
+  - C#
+- **Frameworks e Bibliotecas:**
+  - React
+
+- **Outras Tecnologias:**
+  - Git
+  - SQL
+
+## 📚 Projetos Destacados
+- https://github.com/Nicdojob/Sistema-de-denuncia - Projeto bem direto ao ponto que todas empresas deveria ter !
+
+## 📫 Como Me Encontrar
+- [LinkedIn] https://www.linkedin.com/in/nicollas-soares-6287b12b7/
+- [E-mail](soaresssnicollas@gmail.com)
