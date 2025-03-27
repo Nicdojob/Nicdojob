@@ -9,7 +9,7 @@ Desenvolvedor com experiência em várias linguagens de programação e tecnolog
   - JavaScript
   - C#
 - **Frameworks e Bibliotecas:**
-  - React
+  - .DET
 
 - **Outras Tecnologias:**
   - Git
